@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Jahanavi Kandath
 
-<!--
-**jahnavi01-kandath/jahnavi01-kandath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍🎓 About Me
+- MCA Student at SRK Institute of Technology
+- Fresher looking for Software Developer opportunities
+- Learning Java, Python, SQL 
+- Passionate about Problem Solving
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Java (Basics)
+- Python
+- SQL
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Java
+- Data Structures & Algorithms
+- SQL
+
+## 🚀 Projects
+- Java Logical Programs
+- PPE Detection using YOLOv5
+
+## 📍 Location
+Vijayawada, Andhra Pradesh, India
+
+⭐ Thank you for visiting my profile!
